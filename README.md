@@ -19,5 +19,5 @@ Documentação API: https://gorest.co.in/
  - Rodar o teste pressionando 'Enter'.
 
  ##### 🤖 Exemplo de execução com sucesso:
-
- 
+  
+![Code_AoJkdysqQH](https://user-images.githubusercontent.com/69044228/227339779-c35907a0-28ea-4827-bacc-d325373c2010.png)
