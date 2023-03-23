@@ -20,8 +20,4 @@ Documentação API: https://gorest.co.in/
 
  ##### 🤖 Exemplo de execução com sucesso:
 
- #### Disclaimer
-
- - Montei o user_index.js com os groups, porém não consegui fazer funcionar.
-
  
